@@ -1,0 +1,6 @@
+{
+  "name": "Vox Grain Quantum Synth",
+  "description": "An immersive real-time granular synthesizer that routes your voice through a quantum circuit of qubit nodes, applying physical and acoustic quantum effects.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
